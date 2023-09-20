@@ -1,6 +1,6 @@
 # Power BI vs. Tableau
 
-![Power BI vs. Tableau](tableau vs powerbi.png)
+![Power BI vs. Tableau](image/tableau%20vs%20powerbi.png)
 
 When it comes to data visualization and business intelligence tools, two names frequently dominate the conversation: Power BI and Tableau. Both are powerful tools with dedicated user bases, and choosing between them can be a tough decision. Having used both extensively in various professional contexts, I'd like to share my experiences and insights to help you make an informed decision.
 
